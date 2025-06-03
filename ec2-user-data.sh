@@ -8,3 +8,4 @@ git clone https://github.com/eyuel4/Barkon_Tech_AWS.git
 cd app
 npm install
 nohup node server.js > output.log 2>&1 &
+
